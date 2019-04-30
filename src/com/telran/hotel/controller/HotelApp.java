@@ -1,6 +1,5 @@
 package com.telran.hotel.controller;
 
-
 import com.telran.hotel.dao.Hotel;
 
 
@@ -21,6 +20,7 @@ public class HotelApp {
 	};
 	
 	hotel.printBookingList();
+	//hotel.printBookingList();
 	
     }
 
